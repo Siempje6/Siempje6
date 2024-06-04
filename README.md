@@ -1,0 +1,14 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism
